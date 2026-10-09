@@ -1,0 +1,17 @@
+# ============================================================
+# BioSyn Solution Preparation Batch — Python Dependencies
+# Python 3.10+ required
+# ============================================================
+
+# XLSX report export (multi-sheet preparation worksheet)
+openpyxl>=3.1.0
+
+# ----------------------------------------------------------
+# Optional: printable PDF preparation sheet
+# reportlab>=4.0.0
+#
+# Core calculation engine (molar, stock dilution, mass %,
+# purity correction, unit conversion) uses only Python
+# standard library:
+#   argparse, csv, dataclasses, json, logging, pathlib, typing
+# ============================================================

@@ -1,0 +1,11 @@
+Solution_Name,Batch,Final_Volume,Component,Target_Concentration,Concentration_Unit,Molecular_Weight,Purity,Notes
+PBS,Batch_A,500,NaCl,137,mM,58.44,100.,Sodium chloride
+PBS,Batch_A,500,KCl,2.7,mM,74.55,100.,Potassium chloride
+PBS,Batch_A,500,Na2HPO4,10,mM,141.96,100.,Disodium phosphate
+PBS,Batch_A,500,KH2PO4,1.8,mM,136.09,100.,Monopotassium phosphate
+TE Buffer,Batch_B,100,Tris-HCl,10,mM,121.14,99.,pH 8.0
+TE Buffer,Batch_B,100,EDTA,1,mM,292.24,99.,
+LB Broth,Batch_A,1000,Tryptone,10,mg/mL,,,Peptone from casein
+LB Broth,Batch_A,1000,Yeast Extract,5,mg/mL,,,
+LB Broth,Batch_A,1000,NaCl,10,g/L,,,
+0.5M EDTA Stock,Batch_B,50,EDTA,0.5,M,292.24,99.,pH 8.0 with NaOH

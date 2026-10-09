@@ -1,0 +1,5 @@
+"""BioSyn Solution Preparation Batch — batch buffer/reagent preparation calculator."""
+__version__ = "1.0.0"
+__author__ = "BioSyn Inc."
+__license__ = "MIT"
+__url__ = "https://biosyn-inc.com/"

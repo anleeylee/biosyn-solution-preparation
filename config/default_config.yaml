@@ -1,0 +1,21 @@
+# BioSyn Solution Preparation Batch — Default Config
+units:
+  mass: [g, mg, µg, ng]
+  volume: [L, mL, µL]
+  molar: [M, mM, µM, nM]
+  mass_conc: [g/L, mg/mL, µg/mL]
+  percentage: [w/v, v/v, w/w]
+
+qc:
+  flag_purity_over_100: true
+  flag_purity_below_0: true
+  flag_zero_volume: true
+  flag_target_gt_stock: true
+  flag_missing_mw: true
+  flag_large_mass: true
+  large_mass_threshold_g: 100.0
+
+calculation:
+  default_purity: 100.0
+  default_density: 1.0
+  show_audit_trail: true
